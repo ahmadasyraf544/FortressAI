@@ -1,0 +1,32 @@
+# Python / Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Large Datasets & Video Files
+Videos_Dataset/
+dataset/
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model Weights & Training Runs
+*.pt
+*.pth
+weights/
+runs/
+
+# Temporary / Scratch files
+scratch_*.txt
+scratch_*.py
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+container_ship
+tanker
+cargo_ship
+passenger_ferry
+yacht
+speedboat
+fishing_boat
+military_vessel_local
+military_vessel_foreign
+military_vessel_general
+military_helicopter
+military_airfighter
+military_submarine
+tug_boat
